@@ -1,7 +1,7 @@
 // Desafio Classificador de nível de Herói
 
-let nome = "Dan"
-let nivelXP = 0
+let nome = "Dan" //Nome do herói
+let nivelXP = 0  //Pontos XP do herói
 
 switch (true){
     case nivelXP <= 1000:
